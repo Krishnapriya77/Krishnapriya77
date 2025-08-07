@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![Star Light Line](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Star%20Light%20Line.gif)
+![Professional Handshake](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Professional%20Handshake.gif)
 <!--
 **Krishnapriya77/Krishnapriya77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
